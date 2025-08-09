@@ -17,7 +17,7 @@ Hardware peripherals:
 - Mouse
 - Photodiode sensor attached to the lower left of the screen
 
-Task data are output in a text file with one row per trial as follows:
+Output data are saved to a text file with one row per trial, as follows:
 1. trial number
 2. block number
 3. trial type (1-8: 1, 2 = match; 3, 4 = mismatch identity; 5, 6 = mismatch spatial; 7, 8 = mismatch temporal; 1, 3, 5, 7 include star; 2, 4, 6, 8 no star)
