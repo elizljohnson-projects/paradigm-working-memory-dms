@@ -30,3 +30,5 @@ Output data are saved to a text file with one row per trial, as follows:
 11. stimulus swap spots (1, 2, 3)
 12. trial onset time (ms)
 13. response onset time (ms)
+
+Output data are summarized by block in a separate text file.
