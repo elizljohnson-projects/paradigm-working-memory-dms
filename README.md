@@ -10,9 +10,9 @@ It is described in:
 Publications and other papers using this paradigm should cite the publications above.
 
 **Software:**
-MATLAB 8.6 (R2015b-R2025a)
-Psychtoolbox v.3.0.14
+- MATLAB 8.6 (R2015b-R2025a)
+- Psychtoolbox v.3.0.14
 
 **Hardware peripherals:**
-Mouse
-Photodiode sensor attached to the lower left of the screen
+- Mouse
+- Photodiode sensor attached to the lower left of the screen
