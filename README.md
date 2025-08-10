@@ -11,7 +11,7 @@ Publications and other papers using this paradigm should cite the publications a
 
 Software:
 - MATLAB 8.6 (R2015b; last tested with R2021a)
-- Psychtoolbox v.3.0.14
+- Psychtoolbox v.3.0.14 - [download](http://psychtoolbox.org/download)
 
 Hardware peripherals:
 - Mouse
