@@ -1,6 +1,20 @@
 function acc = run_sub_practice
 % RUN_SUB_PRACTICE - subfunction of run_wm_dms to run the task with only a 
 % set of 8 practice trials, no event markers.
+% 
+% Ensure Psychtoolbox-3 is correcty added to the MATLAB path:
+%   addpath <path to psychtoolbox home directory>
+%   PsychDefaultSetup(2)
+%
+% Peripherals:
+% mouse
+% photodiode sensor attached to the lower left of the screen
+%
+% Outputs:
+% acc = mean proportion correct
+% 
+% Copyright (c) 2017
+% EL Johnson, PhD
 
 % set directories
 stimdir = fullfile(pwd, 'stimuli');
@@ -423,3 +437,4 @@ end
 clearvars -except acc
 
 end
+
