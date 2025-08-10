@@ -10,7 +10,7 @@ It is described in:
 Publications and other papers using this paradigm should cite the publications above.
 
 Software:
-- MATLAB 8.6 (R2015b-R2025a)
+- MATLAB 8.6 (R2015b; last tested with R2021a)
 - Psychtoolbox v.3.0.14
 
 Hardware peripherals:
@@ -18,17 +18,17 @@ Hardware peripherals:
 - Photodiode sensor attached to the lower left of the screen
 
 Output data are saved to a text file with one row per trial, as follows:
-1. trial number
-2. block number
-3. trial type (1-8: 1, 2 = match; 3, 4 = mismatch identity; 5, 6 = mismatch spatial; 7, 8 = mismatch temporal; 1, 3, 5, 7 include star; 2, 4, 6, 8 no star)
-4. response accuracy (0/1)
-5. response type (1-5; 1 = hit, 2 = miss, 3 = correct rejection, 4 = false alarm, 5 = unsure)
-7. response continuous distance
-8. response time (ms)
-9. star onset time relative to delay onset time (ms)
-10. inter-trial interval time
-11. stimulus swap spots (1, 2, 3)
-12. trial onset time (ms)
-13. response onset time (ms)
+1. Trial number
+2. Block number
+3. Trial type (1-8: 1, 2 = match; 3, 4 = mismatch identity; 5, 6 = mismatch spatial; 7, 8 = mismatch temporal; 1, 3, 5, 7 include star; 2, 4, 6, 8 no star)
+4. Response accuracy (0/1)
+5. Response type (1-5; 1 = hit, 2 = miss, 3 = correct rejection, 4 = false alarm, 5 = unsure)
+7. Response continuous distance
+8. Response time (ms)
+9. Star onset time relative to delay onset time (ms)
+10. Inter-trial interval time
+11. Stimulus swap spots (1, 2, 3)
+12. Trial onset time (ms)
+13. Response onset time (ms)
 
 Output data are summarized by block in a separate text file.
