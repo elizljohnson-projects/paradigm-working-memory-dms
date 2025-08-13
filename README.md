@@ -1,5 +1,4 @@
-# paradigm-working-memory-dms
-**Working memory delayed match to sample experimental paradigm**
+## Working memory delayed match to sample experimental paradigm
 
 Our research aims to uncover mechanistic explanations of the neural basis of human behavior, that is, move from where to how. Our goals are multifaceted: (1) advance fundamental science by discovering new knowledge using rigorous, reproducible methods; and (2) advance translational applications in neurotechnology, precision medicine, and product development that are grounded in rigorous science. On each trial of this working memory task paradigm, participants encode three shapes in a specific spatiotemporal sequence in preparation for a self-paced match/mismatch recognition test of sequences that match exactly or mismatch on one dimension. It is intended for humans aged 13+ years with healthy cognitive function and normal/corrected-to-normal vision. It was designed for studies using intracranial and scalp EEG. 
 
@@ -13,7 +12,7 @@ Software:
 - MATLAB 8.6 (R2015b; last tested with R2021a)
 - Psychtoolbox v.3.0.14 - [download](http://psychtoolbox.org/download)
 
-Hardware peripherals:
+Peripheral hardware:
 - Mouse
 - Photodiode sensor attached to the lower left of the screen
 
