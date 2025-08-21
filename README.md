@@ -15,7 +15,7 @@ Software:
 
 Peripheral hardware:
 - Mouse
-- Photodiode sensor attached to the lower left of the screen
+- Photodiode sensor attached to the lower left of the screen. For a step-by-step guide to build a photodiode, see photodiode_how_to in the [pipeline for iEEG data curation repo](https://github.com/elizljohnson-projects/pipeline-ieeg-data-curation.git).
 
 Output data are saved to a text file with one row per trial, as follows:
 1. Trial number
