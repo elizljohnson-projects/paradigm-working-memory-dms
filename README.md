@@ -4,6 +4,7 @@ Our research aims to uncover mechanistic explanations of the neural basis of hum
 
 It is described in:
 - Cross, ZR, Gray, SM, Dede, AJO, Rivera, YM, Yin, Q, Vahidi, P, Rau, EMB, Cyr, C, Holubecki, AM, Asano, E, Lin, JJ, Kim McManus, O, Sattar, S, Saez, I, Girgis, F, King-Stephens, D, Weber, PB, Laxer, KD, Schuele, SU, Rosenow, JM, Wu, JY, Lam, SK, Raskin, JS, Chang, EF, Shaikhouni, A, Brunner, P, Roland, JL, Braga, RM, Knight, RT, Ofen, N, Johnson, EL. The development of aperiodic neural activity in the human brain. _Nature Human Behaviour_ (2025). [DOI](https://doi.org/10.1038/s41562-025-02270-x)
+- Shi, L, Chattopadhyay, K, Gray, SM, Yarbrough, JB, King-Stephens, D, Saez, I, Girgis, F, Shaikhouni, A, Schuele, SU, Rosenow, JM, Asano, E, Knight, RT, Johnson, EL. Distributed theta networks support the control of working memory: Evidence from scalp and intracranial EEG. _bioRxiv_ (2025). [DOI](https://doi.org/10.1101/2025.08.14.670214)
 - Yarbrough, JB, Shi, L, Chattopadhyay, K, Knight, RT, Johnson, EL. One of these things is not like the others: Theta, beta, and ERP dynamics of mismatch detection. _bioRxiv_ (2025). [DOI](https://doi.org/10.1101/2025.07.11.664390)
 
 Publications and other papers using this paradigm should cite the publications above.
